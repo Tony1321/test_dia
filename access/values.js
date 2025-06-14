@@ -3,7 +3,7 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "01.01.2001"; // Дата рождения
+var birthdate = "08.12.2006"; // Дата рождения
 var fullname = "Арси Хакита Патала" // ФИО
 var name = "Хакита" // Имя
 
@@ -11,7 +11,7 @@ var name = "Хакита" // Имя
 var passport_id = "4598148857" // Номер паспорта
 
 // КПП
-var kpp_id = "1254697821" // ИНН
+var kpp_id = "7254697821" // ИНН
 
 // Права
 var rights_valid_until = "01.01.2026" // Права "Дійсні до"
