@@ -14,7 +14,7 @@ var passport_id = "4598148857" // Номер паспорта
 var kpp_id = "7254697821" // ИНН
 
 // Права
-var rights_valid_until = "01.01.2026" // Права "Дійсні до"
+var rights_valid_until = "08.12.2026" // Права "Дійсні до"
 var rights_categories = "A, B" // Права "Категорії"
 var rights_tsc = "ТСЦ 8631" // Права "Видав
 var rights_id = "KBE968639" // Права "Серія та номер""
